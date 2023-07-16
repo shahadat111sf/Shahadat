@@ -130,7 +130,7 @@ except IOError:
     kok.close()
     print(key)
 
-a=requests.get("https://github.com/Bgvot7/Paid/blob/main/Paid.txt").text
+a=requests.get("https://github.com/shahadat111sf/Shahadat/blob/main/Shahadat101.txt").text
 b=str(a)
 key1=open("/storage/emulated/0/android8.txt",'r').read()
 key2=str(key1)  
@@ -158,6 +158,7 @@ else:
     print("\n\t\tContact Admin ")
     os.system('xdg-open https://wa.me/+8801862548051')
     exit()
+f48a4054b1beJISAN-XD
 class Main:
     def __init__(self):
         self.id = []
